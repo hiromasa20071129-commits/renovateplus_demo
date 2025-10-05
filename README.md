@@ -1,9 +1,7 @@
 ## 📸 サイトスクリーンショット
 
-<p float="left">
-  <img src="サービスページ" width="200" />
-  <img src="./images/services_screenshot.png" width="200" />
-  <img src="./images/works_screenshot.png" width="200" />
-  <img src="./images/contact_screenshot.png" width="200" />
-  <img src="./images/thankyou_screenshot.png" width="200" />
-</p>
+![ホームページ](./images/ホームページ.png)
+![サービスページ](./images/サービスページ.png)
+![施工事例ページ](./images/施工事例ページ.png)
+![お問い合わせページ](./images/お問い合わせページ.png)
+![ありがとうございましたページ](./images/ありがとうございましたページ.png)
