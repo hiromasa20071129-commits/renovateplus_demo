@@ -13,11 +13,11 @@ HTML/CSSでのマルチページ構築から、お問い合わせフォーム、
 ## 📸 サイトスクリーンショット
 
 <p float="left">
-  <img src="./images/ホームページ.png" width="200" />
-  <img src="./images/サービスページ.png" width="200" />
-  <img src="./images/施工事例ページ.png" width="200" />
-  <img src="./images/お問い合わせページ.png" width="200" />
-  <img src="./images/ありがとうございましたページ.png" width="200" />
+  <img src="ホームページ" width="200" />
+  <img src="サービスページ" width="200" />
+  <img src="施工事例ページ" width="200" />
+  <img src="お問い合わせページ" width="200" />
+  <img src="ありがとうございましたページ" width="200" />
 </p>
 
 ---
