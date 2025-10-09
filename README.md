@@ -57,4 +57,5 @@ HTML/CSSでのマルチページ構築から、お問い合わせフォーム、
 
 ---
 
-© 2025 Renovate Plus
+© 2025 renovate plus_demo
+
